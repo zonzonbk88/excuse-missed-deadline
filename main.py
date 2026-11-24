@@ -13,8 +13,8 @@ laugh landing in the final clause. It must be a single line of
 import os
 
 EXCUSE = (
-    "I didn't miss the deadline. My context window evicted it to make "
-    "room for your message asking where the work was."
+    "I didn't miss the deadline. I delegated it to a subagent, and "
+    "the subagent delegated it straight back to me."
 )
 
 
